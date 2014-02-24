@@ -1,0 +1,5 @@
+app_tecnologies:
+    resource: "@appTecnologiesBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
